@@ -1,0 +1,1 @@
+This folder stores literature review materials, including journal articles, conference papers, books and other references.
