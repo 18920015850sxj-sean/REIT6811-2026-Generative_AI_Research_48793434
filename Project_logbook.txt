@@ -5,3 +5,5 @@ This logbook records the development and collaboration of the project.
 
 My name is Xiaojun Sun and my student number is 49287668.
 This is branch, and My hobby is taking photos.
+
+It has been a pleasure working together.
