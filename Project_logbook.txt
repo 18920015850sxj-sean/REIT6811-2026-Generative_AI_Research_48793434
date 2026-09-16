@@ -2,3 +2,6 @@ Project: Using Generative AI Tools - Boon or Bane
 The project investigates the use of generative AI tools in research.
 The team is responsible for organising and analysing research data.
 This logbook records the development and collaboration of the project.
+
+My name is Xiaojun Sun and my student number is 49287668.
+This is branch, and My hobby is taking photos.
